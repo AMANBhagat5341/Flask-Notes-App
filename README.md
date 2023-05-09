@@ -1,5 +1,4 @@
-# Flask Note App Running 
-
+# Flask Note App
 ## Setup & Installation
 
 Make sure you have the latest version of Python installed.
